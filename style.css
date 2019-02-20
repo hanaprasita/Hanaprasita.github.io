@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;}
+
+html, body{
+	width: 100%;
+	height: 100%;
+	font-size: 14px;
+	font-weight: normal;
+ 	background-image: url(https://i.pinimg.com/originals/ff/28/8b/ff288bd2984d03749fc27c31794c64d7.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;}
+header {background-image:  url("header.jpg");
+	width: 100%
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y: auto;}
+
+	.nav {
+	border: 5px solid black;
+  	background-color: rgba(255, 99, 71, 0.5) ;
+  	padding-top: 20px;
+  	padding-right: 50px;
+  	padding-bottom: 20px;
+  	padding-left: 100px;
+  	font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	font-color:#00b36b }
+
+	.table  table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 10px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;} 
+
+	.font {font-family: 'Pacifico', cursive;
+	font-size: 35px;
+	font-weight: bold;
+	color: grey ;
+	font-variant-position: right }
+
+
+
+div.desc <h2 style="background-color:rgba(255, 99, 71, 0.5);
+	 font-family: 'Poppins', sans-serif;
+	font-size: 20px;
+	font-color:#00b36b"> </h2>
